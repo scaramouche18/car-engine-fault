@@ -38,7 +38,7 @@ The confusion matrix showed the model's biggest weakness was misclassifying both
 
 ## Tech Stack
 
-Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib, Seaborn
+Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib, Seaborn, Streamlit
 
 ## Project Structure
 
